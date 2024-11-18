@@ -31,8 +31,8 @@ employees based on the pagination parameters
 [
     {
         "name": "Kyra",
-        "jobTitle": "SoftwareDevloper",
-        "phone": "7993866127",
+        "jobTitle": "Software Devloper",
+        "phone": "7386127109",
         "email": "kyra1124@outlook.in",
         "imageUrl": "https://imgv3.fotor.com/images/blog-richtext-image/10-profile-picture-ideas-to-make-you-stand-out.jpg"
     },
